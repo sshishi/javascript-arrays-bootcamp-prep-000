@@ -7,4 +7,5 @@ chocolateBars.unshift("Philadelphia")
 
 function addElementToBeginningOfArray(){
 ["cloth", ...chocolateBars]
+riturn chocolateBars
 }
