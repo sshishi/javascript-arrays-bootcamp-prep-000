@@ -5,5 +5,3 @@ chocolateBars.unshift("Philadelphia")
 chocolateBars.push("Philadelphia")
 
 }
-
-
