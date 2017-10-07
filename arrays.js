@@ -6,6 +6,11 @@ chocolateBars.push("Philadelphia")
 
 }
 
+function addElementToBeginningOfArray(){
+var chocolateBars = ["foo", 1]
+
+
+
 function destructivelyAddElementToBeginningOfArray(){
   var chocolateBars = ["foo",  1]
 }
