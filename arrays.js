@@ -6,6 +6,3 @@ function addElementToBeginningOfArray (){
   chocolateBars.unshift(1)
 }
 
-function addElementToBeginningOfArray(){
-  ["Cool", ...chocolateBars]
-}
