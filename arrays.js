@@ -3,7 +3,7 @@ var chocolateBars = [ "snickers" , "hundred grand" , "kitkat" , "skittles"]
 
 
 function addElementToBeginningOfArray (){
-  chocolateBars.unshift("phi")
+  chocolateBars.unshift(1)
 }
 
 function addElementToBeginningOfArray(){
