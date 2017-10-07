@@ -1,4 +1,7 @@
 var chocolateBars = [ "snickers" , "hundred grand" , "kitkat" , "skittles"]
 
-
-  var  chocolateBars = ["cloth", ...chocolateBars]
+function addWlementToBeginningOfArray(array, element){
+    var  chocolateBars = ["cloth", ...chocolateBars]
+  
+}
+  
