@@ -5,3 +5,7 @@ function addElementToBeginningOfArray(){
 chocolateBars.push("Philadelphia")
 
 }
+
+function destructivelyAddElementToBeginningOfArray(){
+  chocolateBars.unshift("DC")
+}
