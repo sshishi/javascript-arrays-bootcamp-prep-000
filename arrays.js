@@ -1,6 +1,6 @@
 var chocolateBars = [ "snickers" , "hundred grand" , "kitkat" , "skittles"];
 
-funtion addElementToEndOfArray(){
+funtion addElementToEndOfArray(chocolateBars, element){
 
  ["cloth",  ...chocolateBars]
 }
