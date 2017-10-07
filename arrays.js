@@ -7,7 +7,7 @@ chocolateBars.push("Philadelphia")
 }
 
 function addElementToBeginningOfArray(){
-var chocolateBars = ["foo", ...chocolateBars]
+    ["foo", ...chocolateBars]
 
 
 
