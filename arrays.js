@@ -4,3 +4,7 @@ function addElementToBeginningOfArray(){
 chocolateBars.unshift("Philadelphia")
 
 }
+
+function addElementToBeginningOfArray(){
+["cloth", ...chocolateBars]
+}
