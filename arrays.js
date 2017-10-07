@@ -8,3 +8,6 @@ function addElementToBeginningOfArray(){
 function destructivelyAddElementToBeginningOfArray(){
   var chocolateBars = ["Philadelphia",  ...chocolateBars]
 }
+function accessElementInArray(){
+  console.log(chocolateBars[0])
+}
