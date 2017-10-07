@@ -7,5 +7,5 @@ chocolateBars.push("Philadelphia")
 }
 
 function destructivelyAddElementToBeginningOfArray(){
-  ["DC",  ...chocolateBars]
+  ['foo', 1]
 }
